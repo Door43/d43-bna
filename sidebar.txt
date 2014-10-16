@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bna:home|Door43 (bna)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bna|d43-bna repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bna/archive/master.zip|d43-bna.zip]]
+
+**Recent Changes**
+{{changes>ns = bna}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bna|Ethnologue data]]
+
